@@ -9,7 +9,7 @@ Version: 17.04.24
 
 Python: 3.3+ 
 
-Based on [CircularLayout](https://github.com/kivy-garden/garden..circulardatetimepicker).
+Based on [CircularLayout](https://github.com/kivy-garden/garden.circulardatetimepicker).
 The main aim is to provide a date and time selector similar to the
 one found in Android KitKat+.
 Simple usage in Kv language:
